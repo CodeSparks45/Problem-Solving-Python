@@ -22,6 +22,6 @@ Operators are special symbols that carry out arithmetic or logical computation. 
 ### 4. Interactive Shell Execution Outputs
 *(Below are the screenshot evidences of executing all 7 operator types directly in the Python Interactive Shell without using the print function).*
 
-![Arithmetic and Assignment Operators](./screenshots/Output_1_Practical_1.png)
-![Comparison and Logical Operators](./screenshots/Output_2_Practical_1.png)
-![Identity, Membership, and Bitwise Operators](./screenshots/Output_3_Practical_1.png)
+![Arithmetic and Assignment Operators](./Screenshots/Output_1_Practical_1.png)
+![Comparison and Logical Operators](./Screenshots/Output_2_Practical_1.png)
+![Identity, Membership, and Bitwise Operators](./Screenshots/Output_3_Practical_1.png)
